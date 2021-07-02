@@ -2,4 +2,4 @@ maven:
   groupId: com.google.guava
   artifactId: guava
   version: 18.0
-comment: true
+comment: false
